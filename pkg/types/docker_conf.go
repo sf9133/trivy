@@ -6,7 +6,7 @@ import (
 	"github.com/caarlos0/env/v6"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/types"
+	"github.com/sf9133/fanal/types"
 )
 
 // DockerConfig holds the config of Docker

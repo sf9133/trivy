@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aquasecurity/fanal/artifact"
-	ftypes "github.com/aquasecurity/fanal/types"
+	"github.com/sf9133/fanal/artifact"
+	ftypes "github.com/sf9133/fanal/types"
 	"github.com/aquasecurity/trivy/pkg/report"
 	"github.com/aquasecurity/trivy/pkg/types"
 )

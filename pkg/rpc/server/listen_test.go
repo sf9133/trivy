@@ -17,7 +17,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/cache"
+	"github.com/sf9133/fanal/cache"
 	"github.com/aquasecurity/trivy-db/pkg/db"
 	dbFile "github.com/aquasecurity/trivy/pkg/db"
 	rpcCache "github.com/aquasecurity/trivy/rpc/cache"

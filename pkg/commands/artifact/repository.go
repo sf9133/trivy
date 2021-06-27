@@ -7,9 +7,9 @@ import (
 	"github.com/urfave/cli/v2"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/analyzer"
-	"github.com/aquasecurity/fanal/analyzer/config"
-	"github.com/aquasecurity/fanal/cache"
+	"github.com/sf9133/fanal/analyzer"
+	"github.com/sf9133/fanal/analyzer/config"
+	"github.com/sf9133/fanal/cache"
 	"github.com/aquasecurity/trivy/pkg/scanner"
 )
 

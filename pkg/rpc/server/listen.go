@@ -13,7 +13,7 @@ import (
 	"github.com/twitchtv/twirp"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/cache"
+	"github.com/sf9133/fanal/cache"
 	"github.com/aquasecurity/trivy-db/pkg/db"
 	dbFile "github.com/aquasecurity/trivy/pkg/db"
 	"github.com/aquasecurity/trivy/pkg/log"

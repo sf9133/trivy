@@ -3,7 +3,7 @@ package ospkg
 import (
 	"time"
 
-	ftypes "github.com/aquasecurity/fanal/types"
+	ftypes "github.com/sf9133/fanal/types"
 	"github.com/aquasecurity/trivy/pkg/types"
 	"github.com/stretchr/testify/mock"
 )

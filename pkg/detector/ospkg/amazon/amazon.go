@@ -8,7 +8,7 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/xerrors"
 
-	ftypes "github.com/aquasecurity/fanal/types"
+	ftypes "github.com/sf9133/fanal/types"
 	dbTypes "github.com/aquasecurity/trivy-db/pkg/types"
 	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/amazon"
 	"github.com/aquasecurity/trivy/pkg/log"

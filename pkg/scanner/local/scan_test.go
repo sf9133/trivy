@@ -7,9 +7,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aquasecurity/fanal/analyzer"
-	ftypes "github.com/aquasecurity/fanal/types"
-	dtypes "github.com/aquasecurity/go-dep-parser/pkg/types"
+	"github.com/sf9133/fanal/analyzer"
+	ftypes "github.com/sf9133/fanal/types"
+	dtypes "github.com/sf9133/go-dep-parser/pkg/types"
 	"github.com/aquasecurity/trivy-db/pkg/db"
 	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/vulnerability"
 	"github.com/aquasecurity/trivy/pkg/dbtest"

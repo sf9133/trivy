@@ -3,7 +3,7 @@
 package scanner
 
 import (
-	fanaltypes "github.com/aquasecurity/fanal/types"
+	fanaltypes "github.com/sf9133/fanal/types"
 	mock "github.com/stretchr/testify/mock"
 
 	report "github.com/aquasecurity/trivy/pkg/report"

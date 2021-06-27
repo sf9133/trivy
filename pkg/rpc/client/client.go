@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	ftypes "github.com/aquasecurity/fanal/types"
+	ftypes "github.com/sf9133/fanal/types"
 
 	"github.com/aquasecurity/trivy/pkg/types"
 

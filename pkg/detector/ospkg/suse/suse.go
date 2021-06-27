@@ -8,8 +8,8 @@ import (
 
 	version "github.com/knqyf263/go-rpm-version"
 
-	fos "github.com/aquasecurity/fanal/analyzer/os"
-	ftypes "github.com/aquasecurity/fanal/types"
+	fos "github.com/sf9133/fanal/analyzer/os"
+	ftypes "github.com/sf9133/fanal/types"
 	dbTypes "github.com/aquasecurity/trivy-db/pkg/types"
 	susecvrf "github.com/aquasecurity/trivy-db/pkg/vulnsrc/suse-cvrf"
 	"github.com/aquasecurity/trivy/pkg/log"

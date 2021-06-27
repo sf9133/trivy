@@ -22,7 +22,7 @@ import (
 	testcontainers "github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/wait"
 
-	_ "github.com/aquasecurity/fanal/analyzer"
+	_ "github.com/sf9133/fanal/analyzer"
 	testdocker "github.com/aquasecurity/trivy/integration/docker"
 	"github.com/aquasecurity/trivy/pkg/commands"
 	"github.com/aquasecurity/trivy/pkg/report"

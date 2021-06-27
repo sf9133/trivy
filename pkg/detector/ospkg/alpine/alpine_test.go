@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	ftypes "github.com/aquasecurity/fanal/types"
+	ftypes "github.com/sf9133/fanal/types"
 
 	"github.com/stretchr/testify/assert"
 
