@@ -7,7 +7,7 @@ import (
 	"github.com/golang/protobuf/ptypes/timestamp"
 
 	ftypes "github.com/sf9133/fanal/types"
-	deptypes "github.com/aquasecurity/go-dep-parser/pkg/types"
+	deptypes "github.com/sf9133/go-dep-parser/pkg/types"
 	dbTypes "github.com/aquasecurity/trivy-db/pkg/types"
 	"github.com/aquasecurity/trivy/pkg/log"
 	"github.com/aquasecurity/trivy/pkg/report"

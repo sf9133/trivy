@@ -7,7 +7,6 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46
 	github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986
-	github.com/aquasecurity/go-dep-parser v0.0.0-20210520015931-0dd56983cc62
 	github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce
 	github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
@@ -33,6 +32,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/open-policy-agent/opa v0.25.2
 	github.com/sf9133/fanal v0.0.0-20210627054308-fe70d801e273
+	github.com/sf9133/go-dep-parser v0.0.0-20210627053646-33924ee01006
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.7.0
 	github.com/testcontainers/testcontainers-go v0.9.1-0.20210218153226-c8e070a2f18d
