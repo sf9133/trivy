@@ -7,8 +7,8 @@ import (
 	version "github.com/knqyf263/go-rpm-version"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/analyzer/os"
-	ftypes "github.com/aquasecurity/fanal/types"
+	"github.com/sf9133/fanal/analyzer/os"
+	ftypes "github.com/sf9133/fanal/types"
 	dbTypes "github.com/aquasecurity/trivy-db/pkg/types"
 	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/redhat"
 	"github.com/aquasecurity/trivy/pkg/log"

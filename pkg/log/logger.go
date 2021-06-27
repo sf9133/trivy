@@ -7,7 +7,7 @@ import (
 	"go.uber.org/zap/zapcore"
 	"golang.org/x/xerrors"
 
-	flog "github.com/aquasecurity/fanal/log"
+	flog "github.com/sf9133/fanal/log"
 	dlog "github.com/aquasecurity/go-dep-parser/pkg/log"
 )
 

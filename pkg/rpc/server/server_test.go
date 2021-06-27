@@ -13,8 +13,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/fanal/cache"
-	ftypes "github.com/aquasecurity/fanal/types"
+	"github.com/sf9133/fanal/cache"
+	ftypes "github.com/sf9133/fanal/types"
 	deptypes "github.com/aquasecurity/go-dep-parser/pkg/types"
 	"github.com/aquasecurity/trivy-db/pkg/db"
 	dbTypes "github.com/aquasecurity/trivy-db/pkg/types"

@@ -6,8 +6,8 @@ import (
 	"github.com/google/wire"
 	"golang.org/x/xerrors"
 
-	fos "github.com/aquasecurity/fanal/analyzer/os"
-	ftypes "github.com/aquasecurity/fanal/types"
+	fos "github.com/sf9133/fanal/analyzer/os"
+	ftypes "github.com/sf9133/fanal/types"
 	"github.com/aquasecurity/trivy/pkg/detector/ospkg/alpine"
 	"github.com/aquasecurity/trivy/pkg/detector/ospkg/amazon"
 	"github.com/aquasecurity/trivy/pkg/detector/ospkg/debian"

@@ -3,7 +3,7 @@
 package server
 
 import (
-	"github.com/aquasecurity/fanal/cache"
+	"github.com/sf9133/fanal/cache"
 	"github.com/google/wire"
 )
 

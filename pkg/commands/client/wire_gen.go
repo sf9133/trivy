@@ -7,11 +7,11 @@ package client
 
 import (
 	"context"
-	"github.com/aquasecurity/fanal/analyzer"
-	"github.com/aquasecurity/fanal/analyzer/config"
-	image2 "github.com/aquasecurity/fanal/artifact/image"
-	"github.com/aquasecurity/fanal/cache"
-	"github.com/aquasecurity/fanal/image"
+	"github.com/sf9133/fanal/analyzer"
+	"github.com/sf9133/fanal/analyzer/config"
+	image2 "github.com/sf9133/fanal/artifact/image"
+	"github.com/sf9133/fanal/cache"
+	"github.com/sf9133/fanal/image"
 	"github.com/aquasecurity/trivy-db/pkg/db"
 	"github.com/aquasecurity/trivy/pkg/rpc/client"
 	"github.com/aquasecurity/trivy/pkg/scanner"
